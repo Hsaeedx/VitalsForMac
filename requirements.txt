@@ -1,0 +1,4 @@
+rumps
+requests
+beautifulsoup4
+py2app
