@@ -4,9 +4,9 @@ A small Mac menu bar app for downloading lecture files from OSU's Vitals site, i
 
 ## Install
 
-1. Go to the Releases page of this repo and download VitalsForMac.zip.
-2. Unzip it and drag VitalsForMac.app into your Applications folder.
-3. Double-click to open it.
+1. Go to the Releases page of this repo and download VitalsForMac.dmg.
+2. Open it, then drag VitalsForMac into the Applications folder shown.
+3. Open VitalsForMac from your Applications folder.
 
 First time only: macOS will say it can't verify the app. Go to System Settings, then Privacy & Security, scroll down, and click "Open Anyway." Then click Open again. You only have to do this once.
 
