@@ -13,6 +13,7 @@ APP = ["vitals_menubar.py"]
 DATA_FILES = ["README.md"]
 OPTIONS = {
     "argv_emulation": False,
+    "iconfile": "AppIcon.icns",
     "plist": {
         "LSUIElement": True,
         "CFBundleName": "VitalsForMac",

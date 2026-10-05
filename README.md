@@ -10,6 +10,8 @@ A small Mac menu bar app for downloading lecture files from OSU's Vitals site, i
 
 First time only: macOS will say it can't verify the app. Go to System Settings, then Privacy & Security, scroll down, and click "Open Anyway." Then click Open again. You only have to do this once.
 
+![Open Anyway in System Settings](docs/open-anyway.png)
+
 ## Use
 
 Click the 🩺 icon in the menu bar.
